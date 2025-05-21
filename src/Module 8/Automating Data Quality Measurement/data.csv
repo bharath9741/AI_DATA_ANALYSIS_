@@ -1,0 +1,6 @@
+Name,Age,Salary,Department
+Alice,25.0,50000.0,HR
+Bob,30.0,60000.0,Engineering
+Charlie,35.0,55000.0,Engineering
+David,,58000.0,Marketing
+Eva,40.0,,HR

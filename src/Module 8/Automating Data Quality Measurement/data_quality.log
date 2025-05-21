@@ -1,0 +1,2 @@
+2025-05-21 07:39:40,146 - ERROR - Data Quality Alert: One or more data quality checks failed!
+2025-05-21 07:39:40,648 - ERROR - Failed to send email: [Errno -2] Name or service not known
