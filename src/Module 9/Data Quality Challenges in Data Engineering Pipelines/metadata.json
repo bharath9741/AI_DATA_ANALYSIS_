@@ -1,0 +1,33 @@
+{
+    "file": "generated_in_notebook",
+    "row_count": 8,
+    "columns": [
+        "customer_id",
+        "amount",
+        "date"
+    ],
+    "column_types": {
+        "customer_id": "int64",
+        "amount": "float64",
+        "date": "object"
+    },
+    "last_updated": "2025-05-28 10:25:21.544388",
+    "transformations": [
+        {
+            "transformation": "Imputed missing values in 'amount' column with mean.",
+            "timestamp": "2025-05-28 10:25:21.549521"
+        },
+        {
+            "transformation": "Removed duplicates based on 'customer_id' column.",
+            "timestamp": "2025-05-28 10:25:21.549550"
+        },
+        {
+            "transformation": "Imputed missing 'amount' values using mean.",
+            "timestamp": "2025-05-28 10:25:21.549874"
+        },
+        {
+            "transformation": "Removed duplicate rows based on 'customer_id'.",
+            "timestamp": "2025-05-28 10:25:21.550581"
+        }
+    ]
+}
